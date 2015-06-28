@@ -6,3 +6,7 @@ end
 
 class class3
 end
+
+class class4
+	end
+	
